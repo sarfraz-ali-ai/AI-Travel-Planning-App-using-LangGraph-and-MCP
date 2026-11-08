@@ -1,0 +1,23 @@
+# Environments
+.env
+.venv
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Docker
+postgres_data/
+
+# Local MCP repositories (we install this via pip in Docker)
+aviationstack-mcp/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Misc
+.DS_Store
