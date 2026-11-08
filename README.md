@@ -22,5 +22,5 @@ A production-grade, containerized multi-agent system that plans complete trips b
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sarfraz-ali-ai/YOUR-NEW-REPO-NAME.git
-   cd YOUR-NEW-REPO-NAME
+   git clone https://github.com/sarfraz-ali-ai/AI-Travel-Planning-App-using-LangGraph-and-MCP.git
+   cd AI-Travel-Planning-App-using-LangGraph-and-MCP
